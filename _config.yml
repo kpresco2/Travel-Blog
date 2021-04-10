@@ -27,6 +27,7 @@ url: "https://kpresco2.github.io/Travel-Blog" # the base hostname & protocol for
 github_username:  kpresco2
 facebook_username: kpresco2
 instagram_username: kpresco2
+author: Ken Prescott
 
 # Build settings
 theme: minima
