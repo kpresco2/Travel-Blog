@@ -1,2 +1,2 @@
 # Travel-Blog
-My Travels
+This blog will document my Travels
