@@ -20,10 +20,10 @@ layout: default
   </div>
   <div class=next-previous>
     {% if page.previous.url %}
-      <a class="previous" href="{{page.previous.url}}"><button><< Prev</button></a>
+      <a class="previous" href="{{site.baseurl}}{{page.previous.url}}"><button><< Prev</button></a>
     {% endif %}
     {% if page.next.url %}
-      <a class="next" href="{{page.next.url}}"><button>Next >></button></a>
+      <a class="next" href="{{site.baseurl}}{{page.next.url}}"><button>Next >></button></a>
     {% endif %}
   </div>
   {%- if site.disqus.shortname -%}
