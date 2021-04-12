@@ -18,7 +18,14 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+  <div class=next-previous>
+    {% if page.previous.url %}
+      <a class="previous" href="{{page.previous.url}}"><button><< Prev</button></a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}"><button>Next >></button></a>
+    {% endif %}
+  </div>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

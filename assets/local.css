@@ -1,3 +1,6 @@
+.next-previous {
+  text-align: center;
+}
 @media only screen and (min-width: 650px) {
   div.images {
     display: grid;
