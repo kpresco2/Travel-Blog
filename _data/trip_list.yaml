@@ -1,6 +1,6 @@
 - name: ASBK Wakefield Park 2021
-  link: {{ site.baseurl }}/ASBK-Wakefield-Park-2021/
+  link: /ASBK-Wakefield-Park-2021/
 - name: Town of Seventeen Seventy - July 2020
-  link: {{ site.baseurl }}/1770-2020/
+  link: /1770-2020/
 - name: MOTOGP - October 2019
-  link: {{ site.baseurl }}/MOTOGP-2019/index.html
+  link: /MOTOGP-2019/index.html

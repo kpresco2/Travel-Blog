@@ -11,6 +11,6 @@ layout: default
 
   {% for item in site.data.trip_list %}
     <h3>
-      <a href="{{ item.link }}">{{ item.name }}</a>
+      <a href="{{ site.baseurl }}{{ item.link }}">{{ item.name }}</a>
     </h3>
   {% endfor %}
