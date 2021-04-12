@@ -23,7 +23,7 @@ email: kpresco2@gmail
 description: >- # this means to ignore newlines until "baseurl:"
   This Blog details my travel exploits
 baseurl: "/Travel-Blog" # the subpath of your site, e.g. /blog
-url: "https://kpresco2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kpresco2.github.io/Travel-Blog" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "" # the base hostname & protocol
 github_username:  kpresco2
 facebook_username: kpresco2
