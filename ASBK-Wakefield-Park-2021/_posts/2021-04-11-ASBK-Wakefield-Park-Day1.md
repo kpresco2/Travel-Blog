@@ -10,6 +10,6 @@ Quick trip to Guyra.  No issues
         img="ASBK-Wakefield-Park-2021/images/IMG_11042021_174211_(1080_x_1440_pixel).jpg"
         url="ASBK-Wakefield-Park-2021/images/IMG_11042021_174211_(1080_x_1440_pixel).jpg"
         title="Me"
-        comment="This is me"
+        caption="This is me"
     %}
 </div>
