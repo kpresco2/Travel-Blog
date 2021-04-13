@@ -1,3 +1,10 @@
+---
+layout: post
+title: "ASBK: Wakefield Park - Day 1"
+trip: "ASBK: Wakefield Park 2021"
+---
+
+
 13 Apr 2021 - Guyra 
 
 I'm off to another race meeting, this time to Wakefield Park in NSW for a round of the Australian Superbikes.  
